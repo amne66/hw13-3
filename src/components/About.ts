@@ -7,7 +7,7 @@ export function About(){
      <p>Phone number: <br> +966537901335</p>
     </div>
     <div>
-     <img src="public/images/contact.png" alt="contact" class="image-three">
+     <img src="https://hw13amani.herokuapp.com/contact.png" alt="contact" class="image-three">
     </div>
     </div> `
 }
